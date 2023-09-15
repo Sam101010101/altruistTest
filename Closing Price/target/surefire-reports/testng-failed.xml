@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [retrieveDataFromUI]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="retrieveDataFromUITest(failed)" verbose="0">
+    <classes>
+      <class name="org.example.retrieveDataFromUI">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testWebApplication"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- org.example.retrieveDataFromUI -->
+    </classes>
+  </test> <!-- retrieveDataFromUITest(failed) -->
+</suite> <!-- Failed suite [retrieveDataFromUI] -->

@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="retrieveDataFromUI">
+    <test name="retrieveDataFromUITest">
+        <classes>
+            <class name="org.example.retrieveDataFromUI"/>
+        </classes>
+    </test>
+</suite>
